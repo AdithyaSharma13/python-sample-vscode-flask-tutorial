@@ -1,5 +1,6 @@
 trigger:
-- dev
+  - main
+  - releases/*
 
 strategy:
   matrix:
